@@ -2,6 +2,9 @@
 
 soy Full Stack Developer buscando crecer en la industria y aprender otras áreas de la programación.
 
+## Tecnologías y Herramientas
+
+---
 
 
 <!--
