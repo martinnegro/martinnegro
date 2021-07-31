@@ -45,7 +45,7 @@ soy Full Stack Developer buscando crecer en la industria y aprender otras áreas
 
 [Link al repositorio](https://github.com/martinnegro/WeatherApp)
 
-<img height="200px" src="./screenshots/WeatherApp.png">
+<img height="180px" src="./screenshots/WeatherApp.png">
 
 </div>
 <div style = "float: right">
@@ -55,7 +55,7 @@ soy Full Stack Developer buscando crecer en la industria y aprender otras áreas
 
 [Link al repositorio](https://github.com/martinnegro/WeatherApp)
 
-<img height="200px" src="./screenshots/Videogames.png">
+<img height="180px" src="./screenshots/Videogames.png">
 
 </div>
 <!--
