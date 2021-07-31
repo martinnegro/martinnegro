@@ -4,7 +4,6 @@ soy Full Stack Developer buscando crecer en la industria y aprender otras áreas
 
 ## Tecnologías y Herramientas
 
----
 <div align="center">
     <table>
     <tr>
@@ -38,6 +37,27 @@ soy Full Stack Developer buscando crecer en la industria y aprender otras áreas
     </table>
 </div>
 
+## Algunos de mis proyectos
+<div style = "float: left">
+
+### WeatherApp
+[Link al deploy](https://martinnegro-weatherapp.netlify.app/)
+
+[Link al repositorio](https://github.com/martinnegro/WeatherApp)
+
+<img height="200px" src="./screenshots/WeatherApp.png">
+
+</div>
+<div style = "float: right">
+
+### Catalogo de Videojuegos
+[Link al deploy](http://143.198.58.101/)
+
+[Link al repositorio](https://github.com/martinnegro/WeatherApp)
+
+<img height="200px" src="./screenshots/Videogames.png">
+
+</div>
 <!--
 **martinnegro/martinnegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
