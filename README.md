@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola! Mi nombre es Martín y...
+
+soy Full Stack Developer buscando crecer en la industria y aprender otras áreas de la programación.
+
+
 
 <!--
 **martinnegro/martinnegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
