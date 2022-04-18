@@ -40,11 +40,8 @@ soy Full Stack Developer buscando crecer en la industria y aprender otras áreas
 ## Algunos de mis proyectos
 <div style = "float: left">
 
-### WeatherApp
-- [Link al deploy](https://martinnegro-weatherapp.netlify.app/)
-- [Link al repositorio](https://github.com/martinnegro/WeatherApp)
-
-<img height="180px" src="./screenshots/WeatherApp.png">
+### TEG
+- [Link al repositorio](https://github.com/martinnegro/TEG)
 
 </div>
 <div style = "float: right">
